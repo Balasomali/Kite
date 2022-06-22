@@ -58,6 +58,9 @@ public void ClickOnSignUpLink() throws IOException  {
 	
 }
 
-	
+@Test
+public void ClickOnSignUpLinkee() throws IOException  {
+	ZerodhLoginPage zerodhLoginPage = new ZerodhLoginPage(driver);
+	zerodhLoginPage.ClickOnSignUp();
 }
 
