@@ -1,1 +1,11 @@
-# Kite
+# Zerodha
+# Zerodha
+# Zerodha2
+# Zerodha2
+# Zerodha2
+# ZerodhaInvest
+# ZerodhaInvest
+# Zerodha1
+# Zerodha1
+# Zerodha1
+# Zerodha1
